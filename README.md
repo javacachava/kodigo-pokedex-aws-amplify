@@ -36,4 +36,10 @@ Cada `git push` a `main` dispara un nuevo despliegue automáticamente.
 
 ## Evidencia
 
-Las capturas del proceso están en [`docs/capturas/`](docs/capturas/).
+Panel de AWS Amplify con el build exitoso (estado **Deployed**):
+
+![Amplify: implementación realizada](docs/capturas/amplify-deployed.png)
+
+Aplicación funcionando en la URL pública:
+
+![App en producción](docs/capturas/app-en-produccion.png)
