@@ -4,7 +4,7 @@ Pokédex construida con **Next.js 16 (App Router)**, React Server Components, Ty
 
 ## URL pública del despliegue
 
-**https://PENDIENTE.amplifyapp.com** (se reemplaza por la URL real que genera Amplify)
+**https://main.dfa5680l3df32.amplifyapp.com**
 
 ## Ejecutar en local
 
